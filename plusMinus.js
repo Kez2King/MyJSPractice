@@ -1,3 +1,10 @@
+/**
+ * This function takes in an array of integers and returns 
+ * the percentage of zeros, positive and negative numbers in decimal format.
+ * 
+ * Each decimal must cap at 6
+ */
+
 function plusMinus(arr) {
     // Write your code here
     let positive = 0

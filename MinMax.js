@@ -1,3 +1,7 @@
+/**
+ * This funtion takes in an array and return the max and min sums
+ */
+
 function miniMaxSum(arr) {
     // Write your code here
     arr.sort((a,b)=> a-b)
